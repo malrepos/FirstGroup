@@ -69,6 +69,6 @@ From investopedia.com(https://www.investopedia.com/terms/l/laggingindicator.asp)
 
 ## Getting Started
 
-Insure jupyter notebooks is installed. Run each cell in sequence to ensure that all prerequisites are satisfied.
+Ensure Jupyter Lab is installed. Run each cell in sequence to ensure that all prerequisites are satisfied.
 
 Ensure all libraries are installed.
