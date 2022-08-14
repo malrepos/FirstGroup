@@ -16,6 +16,8 @@
 
 Our project attempts to compare the rising, and persistent inflation of the 1970's with the current inflationary trend. We explore economic data, such as government spending, gold, and housing, that potentially provide some indicators of inflation for the current decade.
 
+![Inflation picture](https://user-images.githubusercontent.com/106134324/184523899-1a7ac29f-8f48-4afc-9262-417924f9cabf.png)
+
 ---
 
 ## Libraries Used
